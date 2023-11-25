@@ -1,0 +1,62 @@
+﻿  main.cpp
+C:\Users\Nitro\Downloads\main.cpp(30,27): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(31,27): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(67,97): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(67,78): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(67,59): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(73,89): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(73,74): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(73,59): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(79,34): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(86,92): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(86,76): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Nitro\Downloads\main.cpp(86,60): warning C4244: 'argument': conversion from 'T' to 'Uint8', possible loss of data
+          with
+          [
+              T=float
+          ]
+  sdl.vcxproj -> C:\Users\Nitro\source\repos\sdl\x64\Debug\sdl.exe
